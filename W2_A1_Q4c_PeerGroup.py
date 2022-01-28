@@ -38,6 +38,8 @@ plt.show()
 
 # ------------------------------------------ Question 3b -----------------------------------------
 # Space Complexity for Converting letter to lowerCase
+# since the two graphs are on one file, it takes a while for the
+# space complexity graph to show.
 
 """When you run memory_usage, it gives the output of the memory usage 3 times,
 so we calculated the average of the output and store it"""
